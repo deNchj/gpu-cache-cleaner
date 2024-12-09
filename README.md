@@ -7,6 +7,5 @@ GPU Modelinize göre otomatik başlatma dizininizde bir toplu iş dosyası oluş
 
 ## Kullanım
 
-![Uygulama Ekran Görüntüsü](![image](https://github.com/user-attachments/assets/32d2fd4d-42ee-4967-8a36-29c57dd12722)
-)
+![Uygulama Ekran Görüntüsü](https://i.imgur.com/KWGEU1n.png)
 
